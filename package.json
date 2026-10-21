@@ -1,0 +1,8 @@
+{
+  "name": "evidencia-lab-amstar2",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@netlify/blobs": "^9.1.1"
+  }
+}
